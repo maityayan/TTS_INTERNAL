@@ -79,6 +79,14 @@ Restart Splunk Service
 
 SH > IDX > HF > UF 
 
+------------------------------------------------------------------------------------------------------------
+
+To Checking Proper Configuration -----
+SH ----
+GUI ---- Search & Reporting ------
+
+index=_internal
+
 
 
 
